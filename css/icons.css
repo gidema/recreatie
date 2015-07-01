@@ -1,0 +1,400 @@
+.jstree-leaf .jstree-themeicon {
+  background-position: -3px -3px;
+}
+
+.jstree-default .osmBench .jstree-themeicon {
+  background-image: url("../img/markers/letter_b.png");
+}
+
+.jstree-default .osmPostbox .jstree-themeicon {
+  background-image: url("../img/markers/letter_p.png");
+}
+
+.jstree-default .osmPostoffice .jstree-themeicon {
+  background-image: url("../img/markers/postal.png");
+}
+
+.jstree-default .osmPharmacy .jstree-themeicon {
+  background-image: url("../img/markers/medicalstore.png");
+}
+
+.jstree-default .osmToilets .jstree-themeicon {
+  background-image: url("../img/markers/toilets.png");
+}
+
+.jstree-default .osmPolice .jstree-themeicon {
+  background-image: url("../img/markers/police.png");
+}
+
+.jstree-default .osmFireStation .jstree-themeicon {
+  background-image: url("../img/markers/firemen.png");
+}
+
+.jstree-default .osmATM .jstree-themeicon {
+  background-image: url("../img/markers/atm-2.png");
+}
+
+.jstree-default .osmFuel .jstree-themeicon {
+  background-image: url("../img/markers/fillingstation.png");
+}
+
+.jstree-default .osmSchool .jstree-themeicon {
+  background-image: url("../img/markers/school.png");
+}
+
+.jstree-default .osmUniversity .jstree-themeicon {
+  background-image: url("../img/markers/university.png");
+}
+
+.jstree-default .osmBicycleparking .jstree-themeicon {
+  background-image: url("../img/markers/parking_bicycle-2.png");
+}
+
+.jstree-default .osmBicyclerental .jstree-themeicon {
+  background-image: url("../img/markers/number_1.png");
+}
+
+.jstree-default .osmTaxi .jstree-themeicon {
+  background-image: url("../img/markers/taxi.png");
+}
+
+.jstree-default .osmBusstop .jstree-themeicon {
+  background-image: url("../img/markers/busstop.png");
+}
+
+.jstree-default .osmParking .jstree-themeicon {
+  background-image: url("../img/markers/parkinggarage.png");
+}
+
+.jstree-default .osmArtscentre .jstree-themeicon {
+  background-image: url("../img/markers/artgallery.png");
+}
+
+.jstree-default .osmTheatre .jstree-themeicon {
+  background-image: url("../img/markers/theater.png");
+}
+
+.jstree-default .osmCinema .jstree-themeicon {
+  background-image: url("../img/markers/cinema.png");
+}
+
+.jstree-default .osmInformation .jstree-themeicon {
+  background-image: url("../img/markers/information.png");
+}
+
+.jstree-default .osmMuseum .jstree-themeicon {
+  background-image: url("../img/markers/museum_art.png");
+}
+
+.jstree-default .osmArtwork .jstree-themeicon {
+  background-image: url("../img/markers/number_2.png");
+}
+
+.jstree-default .osmGallery .jstree-themeicon {
+  background-image: url("../img/markers/artgallery.png");
+}
+
+.jstree-default .osmPicnic .jstree-themeicon {
+  background-image: url("../img/markers/picnic-2.png");
+}
+
+.jstree-default .osmZoo .jstree-themeicon {
+  background-image: url("../img/markers/zoo.png");
+}
+
+.jstree-default .osmViewpoint .jstree-themeicon {
+  background-image: url("../img/markers/sight-2.png");
+}
+
+.jstree-default .osmAttraction .jstree-themeicon {
+  background-image: url("../img/markers/letter_a.png");
+}
+
+.jstree-default .osmThemepark .jstree-themeicon {
+  background-image: url("../img/markers/themepark.png");
+}
+
+.jstree-default .osmHotel .jstree-themeicon {
+  background-image: url("../img/markers/hotel_0star.png");
+}
+
+.jstree-default .osmApartment .jstree-themeicon {
+  background-image: url("../img/markers/apartment-3.png");
+}
+
+.jstree-default .osmGuesthouse .jstree-themeicon {
+  background-image: url("../img/markers/bed_breakfast1-2.png");
+}
+
+.jstree-default .osmHostel .jstree-themeicon {
+  background-image: url("../img/markers/hostel_0star.png");
+}
+
+.jstree-default .osmMotel .jstree-themeicon {
+  background-image: url("../img/markers/motel-2.png");
+}
+
+.jstree-default .osmChalet .jstree-themeicon {
+  background-image: url("../img/markers/cabin-2.png");
+}
+
+.jstree-default .osmCampsite .jstree-themeicon {
+  background-image: url("../img/markers/camping-2.png");
+}
+
+.jstree-default .osmCaravansite .jstree-themeicon {
+  background-image: url("../img/markers/camping-2.png");
+}
+
+.jstree-default .osmSoccer .jstree-themeicon {
+  background-image: url("../img/markers/soccer.png");
+}
+
+.jstree-default .osmUsFootball .jstree-themeicon {
+  background-image: url("../img/markers/usfootball.png");
+}
+
+.jstree-default .osmGolf .jstree-themeicon {
+  background-image: url("../img/markers/golfing.png");
+}
+
+.jstree-default .osmTennis .jstree-themeicon {
+  background-image: url("../img/markers/tennis.png");
+}
+
+.jstree-default .osmVolleybal .jstree-themeicon {
+  background-image: url("../img/markers/volleyball.png");
+}
+
+.jstree-default .osmBaseball .jstree-themeicon {
+  background-image: url("../img/markers/baseball.png");
+}
+
+.jstree-default .osmBasketball .jstree-themeicon {
+  background-image: url("../img/markers/basketball.png");
+}
+
+.jstree-default .osmIcehockey .jstree-themeicon {
+  background-image: url("../img/markers/icehockey.png");
+}
+
+.jstree-default .osmHockey .jstree-themeicon {
+  background-image: url("../img/markers/hockey.png");
+}
+
+.jstree-default .osmCycling .jstree-themeicon {
+  background-image: url("../img/markers/cycling.png");
+}
+
+.jstree-default .osmHorseracing .jstree-themeicon {
+  background-image: url("../img/markers/horseriding.png");
+}
+
+.jstree-default .osmSwimming .jstree-themeicon {
+  background-image: url("../img/markers/swimming.png");
+}
+
+.jstree-default .osmSurfing .jstree-themeicon {
+  background-image: url("../img/markers/surfing.png");
+}
+
+.jstree-default .osmGymnastics .jstree-themeicon {
+  background-image: url("../img/markers/indoor-arena.png");
+}
+
+.jstree-default .osmMall .jstree-themeicon {
+  background-image: url("../img/markers/mall.png");
+}
+
+.jstree-default .osmShop .jstree-themeicon {
+  background-image: url("../img/markers/letter_s.png");
+}
+
+.jstree-default .osmDepartmentstore .jstree-themeicon {
+  background-image: url("../img/markers/departmentstore.png");
+}
+
+.jstree-default .osmClothes .jstree-themeicon {
+  background-image: url("../img/markers/clothers_male.png");
+}
+
+.jstree-default .osmFashion .jstree-themeicon {
+  background-image: url("../img/markers/clothers_female.png");
+}
+
+.jstree-default .osmJewelry .jstree-themeicon {
+  background-image: url("../img/markers/jewelry.png");
+}
+
+.jstree-default .osmLeather .jstree-themeicon {
+  background-image: url("../img/markers/bags.png");
+}
+
+.jstree-default .osmShoes .jstree-themeicon {
+  background-image: url("../img/markers/shoes.png");
+}
+
+.jstree-default .osmHairdresser .jstree-themeicon {
+  background-image: url("../img/markers/barber.png");
+}
+
+.jstree-default .osmBeauty .jstree-themeicon {
+  background-image: url("../img/markers/beautysalon.png");
+}
+
+.jstree-default .osmCosmetics .jstree-themeicon {
+  background-image: url("../img/markers/perfumery.png");
+}
+
+.jstree-default .osmChemist .jstree-themeicon {
+  background-image: url("../img/markers/chemistry-2.png");
+}
+
+.jstree-default .osmOpticien .jstree-themeicon {
+  background-image: url("../img/markers/ophthalmologist.png");
+}
+
+.jstree-default .osmBooks .jstree-themeicon {
+  background-image: url("../img/markers/library.png");
+}
+
+.jstree-default .osmPhoto .jstree-themeicon {
+  background-image: url("../img/markers/photography.png");
+}
+
+.jstree-default .osmToys .jstree-themeicon {
+  background-image: url("../img/markers/toys.png");
+}
+
+.jstree-default .osmGift .jstree-themeicon {
+  background-image: url("../img/markers/gifts.png");
+}
+
+.jstree-default .osmBicycle .jstree-themeicon {
+  background-image: url("../img/markers/bicycle_shop.png");
+}
+
+.jstree-default .osmMusicalinstruments .jstree-themeicon {
+  background-image: url("../img/markers/music.png");
+}
+
+.jstree-default .osmRestaurant .jstree-themeicon {
+  background-image: url("../img/markers/restaurant.png");
+}
+
+.jstree-default .osmBar .jstree-themeicon {
+  background-image: url("../img/markers/bar.png");
+}
+
+.jstree-default .osmCafe .jstree-themeicon {
+  background-image: url("../img/markers/cafetaria.png");
+}
+
+.jstree-default .osmPub .jstree-themeicon {
+  background-image: url("../img/markers/bar.png");
+}
+
+.jstree-default .osmIcecream .jstree-themeicon {
+  background-image: url("../img/markers/icecream.png");
+}
+
+.jstree-default .osmFastfood .jstree-themeicon {
+  background-image: url("../img/markers/fastfood.png");
+}
+
+.jstree-default .osmSupermarket .jstree-themeicon {
+  background-image: url("../img/markers/supermarket.png");
+}
+
+.jstree-default .osmBakery .jstree-themeicon {
+  background-image: url("../img/markers/bread.png");
+}
+
+.jstree-default .osmConfectionery .jstree-themeicon {
+  background-image: url("../img/markers/candy.png");
+}
+
+.jstree-default .osmDeli .jstree-themeicon {
+  background-image: url("../img/markers/patisserie.png");
+}
+
+.jstree-default .osmDairy .jstree-themeicon {
+  background-image: url("../img/markers/milk_and_cookies.png");
+}
+
+.jstree-default .osmCheese .jstree-themeicon {
+  background-image: url("../img/markers/cheese.png");
+}
+
+.jstree-default .osmGreengrocer .jstree-themeicon {
+  background-image: url("../img/markers/fruits.png");
+}
+
+.jstree-default .osmGrocery .jstree-themeicon {
+  background-image: url("../img/markers/grocery.png");
+}
+
+.jstree-default .osmButcher .jstree-themeicon {
+  background-image: url("../img/markers/butcher-2.png");
+}
+
+.jstree-default .osmCoffee .jstree-themeicon {
+  background-image: url("../img/markers/coffee.png");
+}
+
+.jstree-default .osmSeafood .jstree-themeicon {
+  background-image: url("../img/markers/restaurant_fish.png");
+}
+
+.jstree-default .osmOrganic .jstree-themeicon {
+  background-image: url("../img/markers/restaurant_vegetarian.png");
+}
+
+.jstree-default .osmDrinkingwater .jstree-themeicon {
+  background-image: url("../img/markers/drinkingwater.png");
+}
+
+.jstree-default .osmAlcohol .jstree-themeicon {
+  background-image: url("../img/markers/liquor.png");
+}
+
+.jstree-default .osmWine .jstree-themeicon {
+  background-image: url("../img/markers/winebar.png");
+}
+
+.jstree-default .osmBeverages .jstree-themeicon {
+  background-image: url("../img/markers/bar_coktail.png");
+}
+
+.jstree-default .osmTravelagency .jstree-themeicon {
+  background-image: url("../img/markers/travel_agency.png");
+}
+
+.jstree-default .osmCopyshop .jstree-themeicon {
+  background-image: url("../img/markers/printer-2.png");
+}
+
+.jstree-default .osmDefibrilator .jstree-themeicon {
+  background-image: url("../img/markers/aed-2.png");
+}
+
+.jstree-default .osmFirehose .jstree-themeicon {
+  background-image: url("../img/markers/fireexstinguisher.png");
+}
+
+.jstree-default .osmMemorial .jstree-themeicon {
+  background-image: url("../img/markers/memorial.png");
+}
+
+.jstree-default .osmMonument .jstree-themeicon {
+  background-image: url("../img/markers/monument.png");
+}
+
+.jstree-default .osmWindmill .jstree-themeicon {
+  background-image: url("../img/markers/windmill-2.png");
+}
+
+.jstree-default .osmWatermill .jstree-themeicon {
+  background-image: url("../img/markers/watermill-2.png");
+}
+
